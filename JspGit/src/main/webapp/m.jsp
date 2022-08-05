@@ -9,6 +9,5 @@
   <h1>m.jsp입니다.</h1>
   <h2>local-7</h2>
    
-  <h1>m.jsp입니다</h1>
 </body>
 </html>
